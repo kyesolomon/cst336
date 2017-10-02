@@ -1,0 +1,8 @@
+[21-Sep-2017 22:18:33 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/cst336-github/challenges/password.php on line 16
+[21-Sep-2017 22:18:33 UTC] PHP Stack trace:
+[21-Sep-2017 22:18:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336-github/challenges/password.php:0
+[21-Sep-2017 22:18:33 UTC] PHP   2. displayPassword() /home/ubuntu/workspace/cst336-github/challenges/password.php:19
+[21-Sep-2017 22:19:55 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/cst336-github/challenges/password.php on line 16
+[21-Sep-2017 22:19:55 UTC] PHP Stack trace:
+[21-Sep-2017 22:19:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336-github/challenges/password.php:0
+[21-Sep-2017 22:19:55 UTC] PHP   2. displayPassword() /home/ubuntu/workspace/cst336-github/challenges/password.php:19
