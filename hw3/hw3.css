@@ -1,0 +1,12 @@
+body{
+    background-color: purple;
+    color: white;
+}
+form{
+    color: white;
+    margin: 100px 500px 100px 500px;
+    font-size: 24px;
+}
+button, input, select, textarea{
+    color: black;
+}
